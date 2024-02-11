@@ -230,8 +230,8 @@ img {
 /*BUTTONS*/
 .button {
   display: inline-block;
-  background-color: var(--first-color);
-  color: #fff;
+  background-color: var(--second-color);
+  color: #def3a5;
   padding: 0.75rem 2.5rem;
   font-weight: var(--font-semi);
   border-radius: 0.5rem;
